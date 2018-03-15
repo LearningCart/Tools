@@ -58,7 +58,6 @@ PrintProcessNames()
 			"process3"
 			"process4"
 			"processN"
-			"tcp2udp"
 	     );
 
 	echo "---------------------------------------------------------"
