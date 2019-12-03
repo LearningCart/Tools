@@ -1,0 +1,3 @@
+Search and delete all the files that maches the given pattern.
+
+find -type f -not -exec grep -q "your_string" {} \; -exec rm -f {} \; -print
